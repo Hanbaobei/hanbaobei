@@ -4,6 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;寒寒祝您今天愉快!&center=true&size=27">
   </a>
 </h1>
+
 <!-- 添加语言图标 -->
 <div align="center">
 	<span>
@@ -14,19 +15,18 @@
 </div>
 
 # 每日一言
-
+<div align="center">
 <!-- 随机名人名言 -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+</div>
 
 # 代码质量
-
 <!-- 编码数据统计图  -->
-
-<div align="center">
+<div align="left">
     <img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hanbaobei&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 
-<div align="center">
+<div align="right">
     <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hanbaobei&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 </div>
 
