@@ -11,4 +11,4 @@
 	<img  src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
 </span>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=LightTheme" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
