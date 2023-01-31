@@ -12,7 +12,9 @@
 		<img  src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
 	</span>
 </div>
+
 # 每日一言
+
 <!-- 随机名人名言 -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
 
